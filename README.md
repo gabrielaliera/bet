@@ -8,7 +8,9 @@ The user is able to perform all four CRUD operations: create a new challenge, re
 
 ## Lab Screenshot
 
-![gif of completed project](readme_screenshot.gif)
+
+<img src='https://github.com/gabrielaliera/bet/blob/master/bet-walkthrough.gif' title='Video Demo' width='700' heigth="700" alt='Video Demo' />
+GIF created with <a href="https://www.cockos.com/licecap/">LICEcap.</a> 
 
 ## Setup
 
